@@ -1,19 +1,31 @@
-# Fashion Mood Board
+# Fashion Mood Board - The Strategist 
 Creator: Alyssa Cervantes
 
 ### Introduction
 
-### User Stories
+### Repo 
+Backend: https://github.com/alyssaleanne98/Capstone-backend
+Frontend: https://github.com/alyssaleanne98/Capstone-frontend 
 
-- Trello: https://trello.com/b/slb4STkc/capstone-project
-- Netlify: https://endearing-centaur-6edd0e.netlify.app/
-- Figma: https://www.figma.com/file/iIImA10o3NYEksxrUIoJJS/Capstone-project?node-id=0-1&t=nFGK2GHd70lSXc7P-0
+### Trello 
+
 
 ### Wireframes
 
+
+
+### Interface 
+
+
+### Technologies Used
+
+
+### Live link
+https://endearing-centaur-6edd0e.netlify.app
+
+
 ### Screenshots 
 
-### Technologies 
 
 ### Future Enhancements: 
 
