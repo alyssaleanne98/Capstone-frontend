@@ -1,7 +1,19 @@
-# Getting Started with Create React App
+# Fashion Mood Board
+Creator: Alyssa Cervantes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Introduction
 
-## Available Scripts
+### User Stories
 
-In the project directory, you can run:
+- Trello: https://trello.com/b/slb4STkc/capstone-project
+- Netlify:
+- Figma: https://www.figma.com/file/iIImA10o3NYEksxrUIoJJS/Capstone-project?node-id=0-1&t=nFGK2GHd70lSXc7P-0
+
+### Wireframes
+
+### Screenshots 
+
+### Technologies 
+
+### Future Enhancements: 
+
