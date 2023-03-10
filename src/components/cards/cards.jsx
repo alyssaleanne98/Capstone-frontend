@@ -1,10 +1,16 @@
-import React from 'react'
+import React from 'react';
 
 
-function Cards() {
-    return(
-        <div>
-
-        </div>
-    )
+function Cards(props) {
+    return <div>
+        <h1>These cards are from api</h1>
+        {props.cards.map((card) => {
+            return <div key={card.id}>
+                <h2>{card.title}</h2>
+                <p>{card.description}</p>
+            </div>
+        })}
+    </div>;
 }
+
+export default Cards;
