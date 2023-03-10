@@ -14,11 +14,9 @@ Frontend: https://github.com/alyssaleanne98/Capstone-frontend
 
 
 
-### Interface 
+### Interface
 
-
-### Technologies Used
-
+### Technologies Us
 
 ### Live link
 https://endearing-centaur-6edd0e.netlify.app
