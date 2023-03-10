@@ -7,7 +7,7 @@ function Cards(props) {
         {props.cards.map((card) => {
             return <div key={card.id}>
                 <h2>{card.title}</h2>
-                <p>{card.description}</p>
+                <p>{card.info}</p>
             </div>
         })}
     </div>;
