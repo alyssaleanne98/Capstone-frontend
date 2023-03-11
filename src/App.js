@@ -2,6 +2,7 @@ import './App.css';
 import Cards from "./components/cards/cards"; 
 import axios from "axios";
 import { useEffect, useState } from "react";
+import Nav from "./components/nav/Nav.js"; 
 
 
 const API_URL = "http://localhost:3000/api/v1/cards";
@@ -26,7 +27,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hello</h1>
+      <Nav />
       <Cards cards={cards} />
       
     </div>
