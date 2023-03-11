@@ -1,17 +1,23 @@
 import React from 'react';
+// import { Link } from "react-router-dom";
+
 
 
 function Cards(props) {
     return <div>
-        <h1>These cards are from api</h1>
+
         {props.cards.map((card) => {
             return <div key={card.id}>
-                <h2>{card.title}</h2>
-                <p>{card.info}</p>
-                <p>{card.img}</p>
+                {/* <Link className='cards-link' to={`/cards/:${id}`}> */}
+                    <h2>{card.title}</h2>
+                    <p>{card.info}</p>
+                    <p>{card.img}</p>
+                {/* </Link> */}
             </div>
         })}
+
     </div>;
+
 }
 
 export default Cards;

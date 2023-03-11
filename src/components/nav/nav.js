@@ -1,12 +1,13 @@
 import React from "react";
+import "./Nav.css"; 
 
 
 
 const Nav = () => {
-    return(
+    return (
         <div className="container">
             <div className="app-title">
-                <h1>Navigation bar</h1>
+                <h1>The Strategist</h1>
                 </div> 
 
         </div>

@@ -1,8 +1,8 @@
 import './App.css';
-import Cards from "./components/cards/cards"; 
+import Cards from "./components/Cards/Cards"; 
 import axios from "axios";
 import { useEffect, useState } from "react";
-import Nav from "./components/nav/Nav.js"; 
+import Nav from "./components/Nav/Nav.js"; 
 
 
 const API_URL = "http://localhost:3000/api/v1/cards";
