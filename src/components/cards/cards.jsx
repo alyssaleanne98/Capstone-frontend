@@ -8,6 +8,7 @@ function Cards(props) {
             return <div key={card.id}>
                 <h2>{card.title}</h2>
                 <p>{card.info}</p>
+                <p>{card.img}</p>
             </div>
         })}
     </div>;

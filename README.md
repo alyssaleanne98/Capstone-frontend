@@ -1,4 +1,4 @@
-# Fashion Mood Board - The Strategist 
+# The Strategist 
 Creator: Alyssa Cervantes
 
 ### Introduction
