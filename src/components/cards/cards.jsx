@@ -14,10 +14,10 @@ function Cards(props) {
                     <p>{card.img}</p>
                 {/* </Link> */}
             </div>
+    
         })}
 
     </div>;
-
 }
 
 export default Cards;
